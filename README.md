@@ -20,7 +20,7 @@ Credit risk management remains a significant challenge for banks given the ineff
 This project compares the performances of a few algorithms to determine the creditworthiness of customers. The dataset that has been used in this project contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005. The 3 machine learning algorithms used in this project are Logistic Regression, Decision Tree Classification, and Random Forest Classification. For comparison of the performances of these models, ROC Curve and Cross-Validation Accuracy have been used.
 
 ## Data 
-'credit card clients.xlsx' - This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
+`credit card clients.xlsx` - This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 Dataset Source : [Taiwan Bank Dataset](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
 
 This research employed a binary variable, default payment (Yes = 1, No = 0), as the response variable. This study reviewed the literature and used the following 23 variables as explanatory variables:
