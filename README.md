@@ -1,4 +1,6 @@
 # Evaluating_Borrower_Reliability
+
+![gifgit (1)](https://user-images.githubusercontent.com/88341388/226695687-a9eb3247-8ea9-4359-97b6-f3d957ef3003.gif)
 ##  Table of Contents
 1. [Installation](#Installation)
 2. [Description](#Description)
